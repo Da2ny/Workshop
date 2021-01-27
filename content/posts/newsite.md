@@ -66,7 +66,7 @@ Créez vous un repo github basique où vous pousserez tout votre projet.
 
 (***à la racine de votre repo***)
 ```
-git init .  && git remote add [le lien donné lorsque tu créer ton repo sur github] && git add . && git commit -m “[TON MESSAGE]" && git push origin master
+git init .  && git remote add origin [le lien donné lorsque tu créer ton repo sur github] && git add . && git commit -m “[TON MESSAGE]" && git push origin master
 ```
 
 ## Hébergement du site
@@ -81,7 +81,7 @@ Vous avez sinon la possibilité d'acheter un nom de domaine et créer plusieurs 
 
 * **Dans ton repo public généré à la suite de la commande hugo --gc --minify**: tu vas pouvoir initialiser ton repo avec les commandes:
 ```
-git init .  && git remote add [le lien donné lorsque tu créer ton repo sur github] && git add . && git commit -m “[TON MESSAGE]" && git push origin master
+git init .  && git remote add origin [le lien donné lorsque tu créer ton repo sur github] && git add . && git commit -m “[TON MESSAGE]" && git push origin master
 ```
 
 * Actualises ta page github et vas dans les settings de ton repo et fais comme montré ci-dessous

@@ -21,7 +21,7 @@ Approfondissement des connaissances.
 
 <!--more-->
 
-## Introuction
+## Sortez vos lunettes
 
 Dans cette partie je vais te montrer tous les éléments importants a remplir dans ton .toml !
 

@@ -38,6 +38,7 @@ Si tu as oublié certains éléments tu pourras y revenir dans la dernière part
 
 {{< admonition note "Important à cofigurer" true >}}
 baseURL = https://[GITHUB NAME].github.io/
+
 themesDir = "./themes/"
 {{< /admonition >}}
 
