@@ -88,12 +88,14 @@ git init .  && git remote add [le lien donné lorsque tu créer ton repo sur git
 
 ![image](/images/init/gif/github_masterbranch.gif)
 
+***Ton site sera normalement https://ton_pseudo.github.io***
+
 **Clique sur la master branch**
 
 Maintenant tu as un lien vers ton site. Retourne sur ton projet, ouvre ton fichier config.toml et place le lien à la place de la baseURL.
 exemple: baseURL = "https://Da2ny.github.io"
 
-Regénère ton projet pour une mise en production et push sur github. Attend quelques seconde et hardrefresh ton site et normalement tu verras une page blanche, ca veut dire que tu as réussis !
+Regénère ton projet pour une mise en production et push sur github. Attend quelques seconde et hardrefresh ton site et normalement tu verras une page blanche, ca veut dire que tu as réussis ! (S'il y a une erreur pas de panique passes à la suite avec LoveIt parceque tu changeras de .toml dans tous les cas)
 
 ## LoveIt Template
 Dans le repo themes tu vas pouvoir git clone le thème LoveIt (la commande que je t'avais demandé de copier et garder dans un coin).
